@@ -17,7 +17,7 @@ This is a TaskTamer application built using React, Bulma, Sass, Vite, MongoDB, E
 1. Clone the repository:
 git clone https://github.com/miamarichka/tasktimer.git
 2. Navigate to the project directory:
-cd phonebook-app
+cd tasktimer
 3. Install the dependencies:
 npm install
 4. Start the development server:
